@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: black;
+  color: white;
+}
+.liitem{
+  text-align: left;
+  width: 40%;
+  color: black;
+}
+.btnpos{
+  position: relative;
+  left: 60%;
+  margin: 1%;
+}
+.inpt{
+  width: 60%;
+  margin-bottom: 1%;
+}
+.top{
+  padding-top: 3%;
+}
+h2{
+  background-color: yellowgreen;
+  color: black;
+  width: 20%;
+}
+h1{
+  background-color: goldenrod;
+  color: black;
+  width: 25%;
+  font-weight: bolder;
+}
+.add{
+  margin-bottom: 1%;
+}
